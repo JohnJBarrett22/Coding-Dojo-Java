@@ -12,11 +12,11 @@ Spring MVC,
 JSP
 
 Skills:
-OOP & MVC,
-Web Security,
-Object Relational Mapper(ORM),
-OOP Design Principals,
-RESTful API Design
+* OOP & MVC
+* Web Security
+* Object Relational Mapper(ORM)
+* OOP Design Principals
+* RESTful API Design
 
 Course Objectives:
 Basic Java,
