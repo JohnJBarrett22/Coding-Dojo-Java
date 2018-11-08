@@ -1,0 +1,43 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+h3 {
+margin: 20px;
+
+}
+#container {
+	width: 1200px;
+	margin: 35px auto;
+	border: 1px solid blue;
+}
+#leftpanel {
+	display: inline-block;
+	vertical-align: top;
+	width: 500px;
+	height: 600px;
+	margin: 6px;
+	padding: 40px;
+	border: 3px solid black;
+}
+
+#rightpanel {
+	display: inline-block;
+	width: 500px;
+	height: 600px;
+	margin: 6px;
+	padding: 40px;
+	border: 3px solid black;
+}
+.inputs {
+	float: right;
+	width: 300px;
+	height: 30px;
+
+}
+.btn {
+	float: right;
+	font-weight: bold;
+	font-size: 15px;
+	padding: 15px;
+}

@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	font-size: 52px;
+}
+button {
+	font-size: 44px;
+	font-weight: bold;
+	padding: 20px;
+	margin-top: 200px;
+	margin-bottom: 75px;
+	-webkit-box-shadow: 3px 3px 15px 0px #000000; 
+	box-shadow: 3px 3px 15px 0px #000000;
+}
+#container {
+	text-align: center;
+	width: 1000px;
+	height: 700px;
+	margin: 35px auto;
+	border: 3px solid black;
+	-webkit-box-shadow: 3px 3px 15px 0px #000000; 
+	box-shadow: 3px 3px 15px 0px #000000;
+}
