@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: DojosAndNinjas
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: johnj
+Implementation-Vendor-Id: com.johnbarrett.dojosandninjas
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/DojosAndNinjas
+Created-By: Maven Integration for Eclipse
+
