@@ -1,0 +1,32 @@
+h2 {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+#container {
+	width: 650px;
+	height: 650px;
+	margin: 150px auto;
+	padding: 35px;
+	border: 3px solid black;
+}
+.formfields {
+	width: 300px;
+	height: 35px;
+	float: right;
+}
+.formfieldscomment {
+	width: 645px;
+	height: 150px;
+	float: right;
+}
+.formfieldsbutton {
+	width: 100px;
+	height: 50px;
+	float: right;
+	padding: 15px;
+	margin-top: 20px;
+	font-weight: bold;
+}
+.push {
+	margin-left: 40px;
+}

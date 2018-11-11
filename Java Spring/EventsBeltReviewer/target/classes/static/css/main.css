@@ -1,0 +1,99 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+a {
+	color: blue;
+}
+#top {
+	width: 80rem;
+	height: 3rem;
+	margin: 0 auto;
+	margin-top: 3rem;
+}
+#container {
+	width: 80rem;
+	height: 53rem;
+	margin: 3rem auto;
+}
+#leftpanel {
+	display: inline-block;
+	vertical-align: top;
+	width: 35rem;
+	height: 45rem;
+	margin: 2rem 2rem;
+	padding: 7px;
+	border: .2rem solid black;
+}
+#rightpanel {
+	display: inline-block;
+	width: 35rem;
+	height: 20rem;
+	margin: 2rem 2rem;
+	padding: 7px;
+	border: .2rem solid black;
+}
+#lftpnl {
+	display: inline-block;
+	vertical-align: top;
+	width: 35rem;
+	margin: 2rem 2rem;
+	padding: 7px;
+}
+#rghtpnl {
+	display: inline-block;
+	width: 35rem;
+	margin: 2rem 2rem;
+	padding: 7px;
+}
+#commentbox {
+	height: 150px;
+	width: 543px;
+	margin: 1rem 0 3rem 0;
+	overflow: auto;
+	outline: solid 1px black
+}
+.btn {
+	float: right;
+	display: block;
+	padding: 1rem;
+	font-weight: bold;
+}
+.avoid {
+	display: block;
+	font-size: 1.25rem;
+}
+.fields {
+	float: right;
+	height: 2rem;
+	width: 20rem;
+}
+.smfields {
+	display: inline-block;
+	float: right;
+	height: 2rem;
+	width: 15.35rem;
+}
+.state {
+	float: right;
+	margin-left: 1rem;
+}
+.error {
+	color: red;
+}
+.fltleft {
+	display: inline-block;
+}
+.fltright {
+	float: right;
+
+}
+.txtbox {
+	width: 543px;
+	height: 200px;
+	margin-bottom: 1rem;
+}
+.red {
+	color: red;
+	font-weight: bold;
+}
