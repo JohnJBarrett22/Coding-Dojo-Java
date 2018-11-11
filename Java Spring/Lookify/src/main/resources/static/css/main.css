@@ -1,0 +1,70 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: black;
+}
+h1 {
+	font-size: 5rem;
+	margin-bottom: 17rem;
+}
+h2 {
+	font-size: 2.5rem;	
+}
+a {
+	color: blue;
+}
+ul {
+	 list-style-type: none;
+}
+.container {
+	width: 90rem;
+	height: 50rem;
+	margin: 3rem auto;
+	text-align: center;
+	background-color: white;
+	-webkit-box-shadow: 0px 0px 34px 6px #FFFFFF; 
+	box-shadow: 0px 0px 34px 6px #FFFFFF;
+}
+.left {
+	float: left;
+	margin: 0 3rem;
+}
+.right {
+	float: right;
+	margin: 0 3rem;
+}
+.blkbrd {
+	border: 0.25rem solid black;
+}
+.top {
+		display: inline-block;
+		height: 5rem;
+}
+.top1 {
+		height: 5rem;
+}
+.form {
+	float: right;
+	height: 3rem;
+	margin: .75rem 4rem;
+}
+.formright {
+	float: right;
+	width: 35rem;
+	height: 3rem;
+}
+.form2 {
+	float: left;
+	height: 3rem;
+	margin: .75rem .75rem;
+}
+.right2 {
+	float: right;
+	margin-top: 0;
+}
+.red {
+	font-size: 1rem;
+	color: red;
+}
