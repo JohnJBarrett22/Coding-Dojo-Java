@@ -1,0 +1,39 @@
+h2 {
+	font-size: 35px;
+}
+a {
+	color: blue;
+}
+#container {
+	width: 1100px;
+	height: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+#leftpanel {
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	width: 500px;
+	height: 550px;
+	margin: 45px 25px;
+	padding-top: 150px;
+}
+#rightpanel {
+	display: inline-block;
+	text-align: center;
+	width: 500px;
+	height: 550px;
+	margin: 45px 15px;
+	padding-top: 150px;
+}
+#dateoutput {
+	font-size: 52px;
+	color: blue;
+	margin: 300px auto;
+}
+#timeoutput {
+	font-size: 52px;
+	color: green;
+	margin: 300px auto;
+}
