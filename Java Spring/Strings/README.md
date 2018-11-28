@@ -1,4 +1,4 @@
-# Strings Assignment
+# Strings
 
 In this assignment, you will create a Spring Boot application that will respond with some hard coded text for two routes.
 
