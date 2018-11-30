@@ -13,4 +13,4 @@ In this assignment, you will be creating an application that will keep track of 
 
 ● In the products show page, allow users to add a category to a specific product.
 
-● In the categories show page, allow users to add a product to a specific category
+● In the categories show page, allow users to add a product to a specific category.
