@@ -1,4 +1,4 @@
-# Simple Project
+# SimpleProject
 
 In this assignment, you will allow users to pass information as query parameters. A user can choose to give their first name, last name, favorite language, and home town. If a user decides not to provide any of the information we've asked for, then set the default value to be Unknown.
 
