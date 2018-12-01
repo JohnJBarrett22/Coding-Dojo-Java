@@ -11,7 +11,7 @@ To prototype the app, the servlets will need to first process the URI query para
 
 Lastly, your PM also reminded you to use the JSTL so that we can escape our input and let our front-end developers have an easier time reading our code.
 
-## Notice that the forms are GET requests!
+Notice that the forms are GET requests!
 
 ## Objectives:
 * Put MVC to practice. Modularize your application to have models, views, and controllers.
