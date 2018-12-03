@@ -14,11 +14,6 @@ Of course, you will also need to demo its capabilities for her, so make a Projec
 * Create a Project class that has the fields of name and description.
 * Create an instance method called elevatorPitch that will return the name and description separated by a colon.
 * Overload the constructor method in three different ways.
-
-public Project() {}
-public Project(String name) {}
-public Project(String name, String description) {}
-
 * Create getter and setters for each field
 * Create a ProjectTest file that will test all the functionality.
 
