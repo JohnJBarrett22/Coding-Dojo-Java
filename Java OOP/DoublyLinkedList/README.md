@@ -1,4 +1,4 @@
-# DLL Assignment
+# Doubly Linked List
 
 In this assignment, you will implement common methods for Doubly Linked Lists:
 * void printValuesBackward(): This method prints the values of the nodes from the tail to the head.
